@@ -11,7 +11,7 @@ This repository explores the integration of LIDA (Language-Independent Document 
 - **Getting Started**: Follow these steps to use LIDA with LLMs:
 
     1. **Install Dependencies**: Set up LIDA and any LLM libraries you plan to use.
-    2. **Preprocess Documents**: Use LIDA to preprocess your text data (e.g., remove stopwords, extract keywords).
+    2. **Preprocess Documents**: Use LIDA for visualization.
     3. **Leverage LLMs**: Integrate LLMs (such as GPT-3.5, GPT-4) for tasks like summarization or question answering.
     4. **Fine-Tuning**: Customize LLM behavior based on your specific use case.
 
